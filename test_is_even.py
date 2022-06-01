@@ -3,7 +3,7 @@
 
 
 
-from day001.is_even import is_even
+from day002.is_even import is_even
 
 
 
