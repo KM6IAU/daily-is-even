@@ -1,2 +1,2 @@
 # daily-is-even
-A (roughly) daily 'is_even()' method of increasing terribleness.
+A (hardly) daily 'is_even()' method of increasing terribleness.
